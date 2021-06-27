@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Security Monster</title>
-    <link>https://security.monster/blog/</link>
+    <link>https://security.monster/news/</link>
     <description>Recent content in Blog on Security Monster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2021, Security Monster; all rights reserved.</copyright><atom:link href="https://security.monster/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021, Security Monster; all rights reserved.</copyright><atom:link href="https://security.monster/news/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
