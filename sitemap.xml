@@ -2,77 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/project/project1/</loc>
+    <loc>https://security.monster/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/project/project2/</loc>
+    <loc>https://security.monster/blog/</loc>
+    <lastmod>2021-06-25T15:41:45+07:00</lastmod>
   </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/project/project3/</loc>
+    <loc>https://security.monster/tags/am/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/project/project4/</loc>
+    <loc>https://security.monster/tags/degirmenci/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://security.monster/tags/erdem/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://security.monster/tags/i/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://security.monster/tags/securitymonster/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://security.monster/tags/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://security.monster/cv/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://security.monster/who-am-i/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://security.monster/blog/i-am-root/</loc>
+    <lastmod>2021-06-25T15:41:45+07:00</lastmod>
   </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/about/</loc>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/bootstrap/</loc>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/categories/</loc>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/css/</loc>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/highlight-js/</loc>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/html/</loc>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/js/</loc>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/project/</loc>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/responsive/</loc>
-  </url><url>
-    <loc>https://erdemdegirmenci.github.io/security.monster/tags/syntax-highlighting/</loc>
+    <loc>https://security.monster/categories/</loc>
   </url>
 </urlset>

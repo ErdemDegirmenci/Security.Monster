@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Index of ~ on Security Monster</title>
-    <link>https://security.monster/</link>
-    <description>Recent content in Index of ~ on Security Monster</description>
+    <title>i on Security Monster</title>
+    <link>https://security.monster/tags/i/</link>
+    <description>Recent content in i on Security Monster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2021, Security Monster; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 27 Jun 2021 15:42:16 +0700</lastBuildDate><atom:link href="https://security.monster/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 15:42:16 +0700</lastBuildDate><atom:link href="https://security.monster/tags/i/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who am i?</title>
       <link>https://security.monster/cv/</link>
@@ -29,17 +29,6 @@ If you need support in your projects, you can contact me.</description>
 I&amp;rsquo;m a cybersecurity consultant.
 If you need support in your projects, you can contact me.
 ping [at] security.monster</description>
-    </item>
-    
-    <item>
-      <title>I Am RooT!</title>
-      <link>https://security.monster/blog/i-am-root/</link>
-      <pubDate>Fri, 25 Jun 2021 15:41:45 +0700</pubDate>
-      
-      <guid>https://security.monster/blog/i-am-root/</guid>
-      <description>i am root
- i am root i am root  i am root ~: echo &amp;#34;i am root&amp;#34; i am root ~: I Am Root i am root
-i am root i am root i am root</description>
     </item>
     
   </channel>
