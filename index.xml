@@ -9,6 +9,40 @@
     <copyright>Copyright © 2021, Security Monster; all rights reserved.</copyright>
     <lastBuildDate>Sun, 27 Jun 2021 15:42:16 +0700</lastBuildDate><atom:link href="https://security.monster/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Approximatively 1,500 businesses impacted by the ransomware attack that hit Kaseya</title>
+      <link>https://security.monster/news/approximatively-1500-businesses-impacted-by-the-ransomware-attack-that-hit-kaseya/</link>
+      <pubDate>Sun, 27 Jun 2021 15:42:16 +0700</pubDate>
+      
+      <guid>https://security.monster/news/approximatively-1500-businesses-impacted-by-the-ransomware-attack-that-hit-kaseya/</guid>
+      <description>Kaseya confirmed that the REvil supply-chain ransomware attack hit fewer than 60 of its customers and their customers. Software provider Kaseya announced that fewer than 60 of its customers and less than 1,500 businesses have been impacted by the recent supply-chain ransomware attack.
+Up to 1,500 downstream organizations, which were customers of MSPs using Kaseya VSA management platform, were impacted by the attack.
+“While impacting approximately 50 of Kaseya’s customers, this attack was never a threat nor had any impact to critical infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Approximatively 1,500 businesses impacted by the ransomware attack that hit Kaseya</title>
+      <link>https://security.monster/news/qnap-addressed-a-critical-flaw-that-allows-compromising-nas-devices/</link>
+      <pubDate>Sun, 27 Jun 2021 15:42:16 +0700</pubDate>
+      
+      <guid>https://security.monster/news/qnap-addressed-a-critical-flaw-that-allows-compromising-nas-devices/</guid>
+      <description>Taiwanese vendor QNAP addressed a critical flaw, tracked as CVE-2021-28809, that could be exploited to compromise vulnerable NAS devices. Taiwanese vendor QNAP fixed a critical vulnerability, tracked as CVE-2021-28809, that could be exploited by attackers to compromise vulnerable NAS devices.
+The vulnerability affects certain legacy versions of HBS 3 Hybrid Backup Sync, it was reported to the vendor by Ta-Lun Yen of TXOne IoT/ICS Security Research Labs.
+“An improper access control vulnerability has been reported to affect certain legacy versions of HBS 3 (Hybrid Backup Sync).</description>
+    </item>
+    
+    <item>
+      <title>Backdoor.Win32.NerTe.781?</title>
+      <link>https://security.monster/exploits/backdoor.win32.nerte.781-code-execution/</link>
+      <pubDate>Sun, 27 Jun 2021 15:42:16 +0700</pubDate>
+      
+      <guid>https://security.monster/exploits/backdoor.win32.nerte.781-code-execution/</guid>
+      <description>Discovery / credits: Malvuln - malvuln.com (c) 2021 Original source: https://malvuln.com/advisory/776e8bb41adf8bd95865c0b03637d8d7_B.txt Contact: malvuln13@gmail.com Media: twitter.com/malvuln
+Threat: Backdoor.Win32.NerTe.781 Vulnerability: Unauthenticated Remote Command Execution Description: Third-party attackers who can reach infected systems can connect to port 80 and run commands made available by the backdoor to retrieve information etc. Type: PE32 MD5: 776e8bb41adf8bd95865c0b03637d8d7 Vuln ID: MVID-2021-0265 Dropped files: nsrv78.exe Disclosure: 07/03/2021
+Exploit/PoC: Example commands:
+GETCLB (Get Clipboard data) GETSND (Get sounds) GETIN2 (Get Installed Software) GETIN3 GETIN4 GETIN6</description>
+    </item>
+    
+    <item>
       <title>Who am i?</title>
       <link>https://security.monster/who-am-i/</link>
       <pubDate>Sun, 27 Jun 2021 15:42:16 +0700</pubDate>
@@ -30,131 +64,283 @@ ping [at] security.monster</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://security.monster/papers/windows/evasion/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Another detailed guide to PE infection</title>
+      <link>https://security.monster/papers/windows/infection/another-detailed-guide-to-pe-infection/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://security.monster/papers/windows/evasion/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <guid>https://security.monster/papers/windows/infection/another-detailed-guide-to-pe-infection/</guid>
+      <description> https://security.monster/data/AnotherdetailedguidetoPEinfection.txt  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>ANTI-VIRUS ARTIFACTS III</title>
       <link>https://security.monster/papers/windows/evasion/anti-virus-artifacts-iii/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/anti-virus-artifacts-iii/</guid>
-      <description></description>
+      <description> https://security.monster/data/ANTIVIRUS_ARTIFACTS_III.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Binary Data Hiding in VB6 Executables</title>
       <link>https://security.monster/papers/windows/evasion/binary-data-hiding-in-vb6-executables/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/binary-data-hiding-in-vb6-executables/</guid>
-      <description></description>
+      <description> https://security.monster/data/decoded.avast.io-Binary%20Data%20Hiding%20in%20VB6%20Executables.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Bypassing User-Mode Hooks and Direct Invocation of System Calls for Red Teams</title>
       <link>https://security.monster/papers/windows/evasion/bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams/</guid>
-      <description></description>
+      <description> https://security.monster/data/BypassingUserModeHooksandDirectInvocationofSystemCallsforRedTeams.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Defeating Userland Hooks ft. BitDefender</title>
       <link>https://security.monster/papers/windows/evasion/defeating-userland-hooks-ft.-bitdefender/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/defeating-userland-hooks-ft.-bitdefender/</guid>
-      <description></description>
+      <description> https://security.monster/data/DefeatingUserlandHooksftBitDefender.docx  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/infection/add-a-new-pe-section-code-inside-of-it/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/infection/add-a-new-pe-section-code-inside-of-it/</guid>
+      <description> https://security.monster/data/AddanewPEsectionCodeinsideofit.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/infection/detailed-guide-to-pe-infection/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/infection/detailed-guide-to-pe-infection/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/abusing-mailslots-and-portknocking-for-connectionless-shells/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/abusing-mailslots-and-portknocking-for-connectionless-shells/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/abusing-the-windows-power-management-api/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/abusing-the-windows-power-management-api/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/anti-analysis-techniques-used-in-excel-4.0-macros/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/anti-analysis-techniques-used-in-excel-4.0-macros/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/cmd-hijack-a-command-argument-confusion-with-path-traversal-in-cmd.exe/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/cmd-hijack-a-command-argument-confusion-with-path-traversal-in-cmd.exe/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/from-a-c-project-through-assembly-to-shellcode/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/from-a-c-project-through-assembly-to-shellcode/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/hide-desktop-icons/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/hide-desktop-icons/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/stealthy-process-communication-between-threads-on-windows-10/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/stealthy-process-communication-between-threads-on-windows-10/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/weaponizing-windows-virtualization/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/weaponizing-windows-virtualization/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Fake Entry Point Trick</title>
       <link>https://security.monster/papers/windows/evasion/fake-entry-point-trick/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/fake-entry-point-trick/</guid>
-      <description></description>
+      <description> https://security.monster/data/FakeEP.txt  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Hell&#39;s Gate: invoking syscalls from in-memory modules</title>
       <link>https://security.monster/papers/windows/evasion/hells-gate-invoking-syscalls-from-in-memory-modules/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/hells-gate-invoking-syscalls-from-in-memory-modules/</guid>
-      <description></description>
+      <description> https://github.com/vxunderground/VXUG-Papers/tree/main/Hells%20Gate  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Hello world!</title>
+      <link>https://security.monster/blog/hello-world/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/blog/hello-world/</guid>
+      <description>If you&amp;rsquo;re ready, I&amp;rsquo;ll start.</description>
+    </item>
+    
+    <item>
+      <title>Heresy&#39;s Gate: Ring 0 to Ring 3 via Worker Factories</title>
       <link>https://security.monster/papers/windows/evasion/heresys-gate-ring-0-to-ring-3-via-worker-factories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/heresys-gate-ring-0-to-ring-3-via-worker-factories/</guid>
-      <description></description>
+      <description> https://security.monster/data/HeresysGateKernelZwNTDLLScrapingWorkOutRing0toRing3viaWorkerFactories.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Hiding your .NET - COMPlus_ETWEnabled</title>
       <link>https://security.monster/papers/windows/evasion/hiding-your-.net-complus_etwenabled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/hiding-your-.net-complus_etwenabled/</guid>
-      <description></description>
+      <description> https://security.monster/data/HidingyourNETCOMPlusETWEnabled.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Hiding your .NET - ETW</title>
       <link>https://security.monster/papers/windows/evasion/hiding-your-.net-etw/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/hiding-your-.net-etw/</guid>
-      <description></description>
+      <description> https://security.monster/data/HidingyourNETETW.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Identifying Antivirus Software by enumerating Minifilter String Names</title>
       <link>https://security.monster/papers/windows/evasion/identifying-antivirus-software-by-enumerating-minifilter-string-names/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/identifying-antivirus-software-by-enumerating-minifilter-string-names/</guid>
-      <description></description>
+      <description> https://security.monster/data/IdentifyingAntivirusSoftwarebyenumeratingMinifilterStringNames.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Masking Malicious Memory Artifacts series</title>
       <link>https://security.monster/papers/windows/evasion/masking-malicious-memory-artifacts-series/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/masking-malicious-memory-artifacts-series/</guid>
-      <description></description>
+      <description>Part 1
+ https://security.monster/data/PhantomDLLHollowing.pdf Part 2 https://www.forrest-orr.net/post/masking-malicious-memory-artifacts-part-ii-insights-from-moneta Part 3 https://www.forrest-orr.net/post/masking-malicious-memory-artifacts-part-iii-bypassing-defensive-scanners  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Protecting Your Malware with blockdlls and ACG</title>
       <link>https://security.monster/papers/windows/evasion/protecting-your-malware-with-blockdlls-and-acg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/protecting-your-malware-with-blockdlls-and-acg/</guid>
-      <description></description>
+      <description> https://security.monster/data/ProtectingYourMalwarewithblockdllsandACG.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Ransomware Wiki</title>
+      <link>https://security.monster/papers/threat-intel/ransomware-wiki/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/threat-intel/ransomware-wiki/</guid>
+      <description> https://security.monster/data/RansomWiki.txt  </description>
+    </item>
+    
+    <item>
+      <title>The Ultimate Anti-Debugging Reference</title>
       <link>https://security.monster/papers/windows/evasion/the-ultimate-anti-reversing-reference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/the-ultimate-anti-reversing-reference/</guid>
-      <description></description>
+      <description> https://security.monster/data/TheUltimateAntiReversingReference.pdf  </description>
+    </item>
+    
+    <item>
+      <title>The worst of the two worlds: Excel meets Outlook</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/the-worst-of-the-two-worlds-excel-meets-outlook/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/the-worst-of-the-two-worlds-excel-meets-outlook/</guid>
+      <description> https://security.monster/data/TheworstofthetwoworldsExcelmeetsOutlook.pdf  </description>
+    </item>
+    
+    <item>
+      <title>Thread Local Storage: The hidden entry point (64bit version, AMD)</title>
+      <link>https://security.monster/papers/windows/infection/thread-local-storage-the-hidden-entry-point-64bit-version-amd/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/infection/thread-local-storage-the-hidden-entry-point-64bit-version-amd/</guid>
+      <description> https://security.monster/data/29A-8.001.txt  </description>
+    </item>
+    
+    <item>
+      <title>Thread Local Storage: The hidden entry point (64bit version, Intel)</title>
+      <link>https://security.monster/papers/windows/infection/thread-local-storage-the-hidden-entry-point-64bit-version-intel/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/infection/thread-local-storage-the-hidden-entry-point-64bit-version-intel/</guid>
+      <description> https://security.monster/data/29A-8.002.txt  </description>
+    </item>
+    
+    <item>
+      <title>Virtual Machine Detection In The Browser</title>
+      <link>https://security.monster/papers/web/virtual-machine-detection-in-the-browser/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/web/virtual-machine-detection-in-the-browser/</guid>
+      <description> https://security.monster/data/bannedit.github.io-Virtual%20Machine%20Detection%20In%20The%20Browser.pdf  </description>
+    </item>
+    
+    <item>
+      <title>Windows Boot CD Infection</title>
+      <link>https://security.monster/papers/windows/infection/windows-boot-cd-infection/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/infection/windows-boot-cd-infection/</guid>
+      <description> https://security.monster/data/29A-8.016.txt  </description>
     </item>
     
   </channel>

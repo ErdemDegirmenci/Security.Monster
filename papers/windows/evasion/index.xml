@@ -18,131 +18,121 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://security.monster/papers/windows/evasion/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://security.monster/papers/windows/evasion/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>ANTI-VIRUS ARTIFACTS III</title>
       <link>https://security.monster/papers/windows/evasion/anti-virus-artifacts-iii/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/anti-virus-artifacts-iii/</guid>
-      <description></description>
+      <description> https://security.monster/data/ANTIVIRUS_ARTIFACTS_III.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Binary Data Hiding in VB6 Executables</title>
       <link>https://security.monster/papers/windows/evasion/binary-data-hiding-in-vb6-executables/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/binary-data-hiding-in-vb6-executables/</guid>
-      <description></description>
+      <description> https://security.monster/data/decoded.avast.io-Binary%20Data%20Hiding%20in%20VB6%20Executables.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Bypassing User-Mode Hooks and Direct Invocation of System Calls for Red Teams</title>
       <link>https://security.monster/papers/windows/evasion/bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams/</guid>
-      <description></description>
+      <description> https://security.monster/data/BypassingUserModeHooksandDirectInvocationofSystemCallsforRedTeams.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Defeating Userland Hooks ft. BitDefender</title>
       <link>https://security.monster/papers/windows/evasion/defeating-userland-hooks-ft.-bitdefender/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/defeating-userland-hooks-ft.-bitdefender/</guid>
-      <description></description>
+      <description> https://security.monster/data/DefeatingUserlandHooksftBitDefender.docx  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Fake Entry Point Trick</title>
       <link>https://security.monster/papers/windows/evasion/fake-entry-point-trick/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/fake-entry-point-trick/</guid>
-      <description></description>
+      <description> https://security.monster/data/FakeEP.txt  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Hell&#39;s Gate: invoking syscalls from in-memory modules</title>
       <link>https://security.monster/papers/windows/evasion/hells-gate-invoking-syscalls-from-in-memory-modules/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/hells-gate-invoking-syscalls-from-in-memory-modules/</guid>
-      <description></description>
+      <description> https://github.com/vxunderground/VXUG-Papers/tree/main/Hells%20Gate  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Heresy&#39;s Gate: Ring 0 to Ring 3 via Worker Factories</title>
       <link>https://security.monster/papers/windows/evasion/heresys-gate-ring-0-to-ring-3-via-worker-factories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/heresys-gate-ring-0-to-ring-3-via-worker-factories/</guid>
-      <description></description>
+      <description> https://security.monster/data/HeresysGateKernelZwNTDLLScrapingWorkOutRing0toRing3viaWorkerFactories.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Hiding your .NET - COMPlus_ETWEnabled</title>
       <link>https://security.monster/papers/windows/evasion/hiding-your-.net-complus_etwenabled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/hiding-your-.net-complus_etwenabled/</guid>
-      <description></description>
+      <description> https://security.monster/data/HidingyourNETCOMPlusETWEnabled.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Hiding your .NET - ETW</title>
       <link>https://security.monster/papers/windows/evasion/hiding-your-.net-etw/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/hiding-your-.net-etw/</guid>
-      <description></description>
+      <description> https://security.monster/data/HidingyourNETETW.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Identifying Antivirus Software by enumerating Minifilter String Names</title>
       <link>https://security.monster/papers/windows/evasion/identifying-antivirus-software-by-enumerating-minifilter-string-names/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/identifying-antivirus-software-by-enumerating-minifilter-string-names/</guid>
-      <description></description>
+      <description> https://security.monster/data/IdentifyingAntivirusSoftwarebyenumeratingMinifilterStringNames.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Masking Malicious Memory Artifacts series</title>
       <link>https://security.monster/papers/windows/evasion/masking-malicious-memory-artifacts-series/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/masking-malicious-memory-artifacts-series/</guid>
-      <description></description>
+      <description>Part 1
+ https://security.monster/data/PhantomDLLHollowing.pdf Part 2 https://www.forrest-orr.net/post/masking-malicious-memory-artifacts-part-ii-insights-from-moneta Part 3 https://www.forrest-orr.net/post/masking-malicious-memory-artifacts-part-iii-bypassing-defensive-scanners  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>Protecting Your Malware with blockdlls and ACG</title>
       <link>https://security.monster/papers/windows/evasion/protecting-your-malware-with-blockdlls-and-acg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/protecting-your-malware-with-blockdlls-and-acg/</guid>
-      <description></description>
+      <description> https://security.monster/data/ProtectingYourMalwarewithblockdllsandACG.pdf  </description>
     </item>
     
     <item>
-      <title></title>
+      <title>The Ultimate Anti-Debugging Reference</title>
       <link>https://security.monster/papers/windows/evasion/the-ultimate-anti-reversing-reference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://security.monster/papers/windows/evasion/the-ultimate-anti-reversing-reference/</guid>
-      <description></description>
+      <description> https://security.monster/data/TheUltimateAntiReversingReference.pdf  </description>
     </item>
     
   </channel>

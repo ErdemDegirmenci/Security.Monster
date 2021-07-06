@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ransomware on Security Monster</title>
+    <link>https://security.monster/tags/ransomware/</link>
+    <description>Recent content in ransomware on Security Monster</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021, Security Monster; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 27 Jun 2021 15:42:16 +0700</lastBuildDate><atom:link href="https://security.monster/tags/ransomware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Approximatively 1,500 businesses impacted by the ransomware attack that hit Kaseya</title>
+      <link>https://security.monster/news/approximatively-1500-businesses-impacted-by-the-ransomware-attack-that-hit-kaseya/</link>
+      <pubDate>Sun, 27 Jun 2021 15:42:16 +0700</pubDate>
+      
+      <guid>https://security.monster/news/approximatively-1500-businesses-impacted-by-the-ransomware-attack-that-hit-kaseya/</guid>
+      <description>Kaseya confirmed that the REvil supply-chain ransomware attack hit fewer than 60 of its customers and their customers. Software provider Kaseya announced that fewer than 60 of its customers and less than 1,500 businesses have been impacted by the recent supply-chain ransomware attack.
+Up to 1,500 downstream organizations, which were customers of MSPs using Kaseya VSA management platform, were impacted by the attack.
+“While impacting approximately 50 of Kaseya’s customers, this attack was never a threat nor had any impact to critical infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Approximatively 1,500 businesses impacted by the ransomware attack that hit Kaseya</title>
+      <link>https://security.monster/news/qnap-addressed-a-critical-flaw-that-allows-compromising-nas-devices/</link>
+      <pubDate>Sun, 27 Jun 2021 15:42:16 +0700</pubDate>
+      
+      <guid>https://security.monster/news/qnap-addressed-a-critical-flaw-that-allows-compromising-nas-devices/</guid>
+      <description>Taiwanese vendor QNAP addressed a critical flaw, tracked as CVE-2021-28809, that could be exploited to compromise vulnerable NAS devices. Taiwanese vendor QNAP fixed a critical vulnerability, tracked as CVE-2021-28809, that could be exploited by attackers to compromise vulnerable NAS devices.
+The vulnerability affects certain legacy versions of HBS 3 Hybrid Backup Sync, it was reported to the vendor by Ta-Lun Yen of TXOne IoT/ICS Security Research Labs.
+“An improper access control vulnerability has been reported to affect certain legacy versions of HBS 3 (Hybrid Backup Sync).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://security.monster/news/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
+  </url><url>
     <loc>https://security.monster/</loc>
     <lastmod>2021-06-27T15:42:16+07:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/blog/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://security.monster/papers/windows/</loc>
+    <loc>https://security.monster/papers/windows/infection/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://security.monster/blog/</loc>
+    <loc>https://security.monster/papers/windows/system-components-and-abuse/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://security.monster/news/</loc>
-  </url><url>
-    <loc>https://security.monster/papers/windows/infection/</loc>
+    <loc>https://security.monster/papers/windows/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/injection/</loc>
   </url><url>
@@ -23,26 +29,37 @@
   </url><url>
     <loc>https://security.monster/papers/windows/persistence/</loc>
   </url><url>
-    <loc>https://security.monster/papers/windows/system-components-and-abuse/</loc>
-  </url><url>
     <loc>https://security.monster/papers/linux/</loc>
   </url><url>
     <loc>https://security.monster/papers/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://security.monster/how-to/</loc>
-  </url><url>
     <loc>https://security.monster/papers/web/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/exploits/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/mobile/</loc>
   </url><url>
     <loc>https://security.monster/papers/macos/</loc>
   </url><url>
     <loc>https://security.monster/papers/threat-intel/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/tags/am/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/news/approximatively-1500-businesses-impacted-by-the-ransomware-attack-that-hit-kaseya/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/news/qnap-addressed-a-critical-flaw-that-allows-compromising-nas-devices/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/exploits/backdoor.win32.nerte.781-code-execution/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/tags/code/</loc>
     <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
     <loc>https://security.monster/tags/degirmenci/</loc>
@@ -51,7 +68,22 @@
     <loc>https://security.monster/tags/erdem/</loc>
     <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
+    <loc>https://security.monster/tags/execution/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/tags/exploit/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
+  </url><url>
     <loc>https://security.monster/tags/i/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/tags/kaseya/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/tags/ransomware/</loc>
+    <lastmod>2021-06-27T15:42:16+07:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/tags/revil/</loc>
     <lastmod>2021-06-27T15:42:16+07:00</lastmod>
   </url><url>
     <loc>https://security.monster/tags/securitymonster/</loc>
@@ -66,34 +98,98 @@
     <loc>https://security.monster/papers/windows/evasion/anatomy-of-a-simple-and-popular-packer/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://security.monster/papers/windows/evasion/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>https://security.monster/papers/windows/infection/another-detailed-guide-to-pe-infection/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/anti-virus-artifacts-iii/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/binary-data-hiding-in-vb6-executables/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/defeating-userland-hooks-ft.-bitdefender/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/infection/add-a-new-pe-section-code-inside-of-it/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/infection/detailed-guide-to-pe-infection/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/system-components-and-abuse/abusing-mailslots-and-portknocking-for-connectionless-shells/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/system-components-and-abuse/abusing-the-windows-power-management-api/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/system-components-and-abuse/anti-analysis-techniques-used-in-excel-4.0-macros/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/system-components-and-abuse/cmd-hijack-a-command-argument-confusion-with-path-traversal-in-cmd.exe/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/system-components-and-abuse/from-a-c-project-through-assembly-to-shellcode/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/system-components-and-abuse/hide-desktop-icons/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/system-components-and-abuse/stealthy-process-communication-between-threads-on-windows-10/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/system-components-and-abuse/weaponizing-windows-virtualization/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/fake-entry-point-trick/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/hells-gate-invoking-syscalls-from-in-memory-modules/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/blog/hello-world/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/heresys-gate-ring-0-to-ring-3-via-worker-factories/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/hiding-your-.net-complus_etwenabled/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/hiding-your-.net-etw/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/identifying-antivirus-software-by-enumerating-minifilter-string-names/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/masking-malicious-memory-artifacts-series/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/protecting-your-malware-with-blockdlls-and-acg/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/threat-intel/ransomware-wiki/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/papers/windows/evasion/the-ultimate-anti-reversing-reference/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/system-components-and-abuse/the-worst-of-the-two-worlds-excel-meets-outlook/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/infection/thread-local-storage-the-hidden-entry-point-64bit-version-amd/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/infection/thread-local-storage-the-hidden-entry-point-64bit-version-intel/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/web/virtual-machine-detection-in-the-browser/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://security.monster/papers/windows/infection/windows-boot-cd-infection/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://security.monster/categories/</loc>
   </url>

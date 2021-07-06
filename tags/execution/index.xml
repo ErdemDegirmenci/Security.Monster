@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>execution on Security Monster</title>
+    <link>https://security.monster/tags/execution/</link>
+    <description>Recent content in execution on Security Monster</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021, Security Monster; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 27 Jun 2021 15:42:16 +0700</lastBuildDate><atom:link href="https://security.monster/tags/execution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backdoor.Win32.NerTe.781?</title>
+      <link>https://security.monster/exploits/backdoor.win32.nerte.781-code-execution/</link>
+      <pubDate>Sun, 27 Jun 2021 15:42:16 +0700</pubDate>
+      
+      <guid>https://security.monster/exploits/backdoor.win32.nerte.781-code-execution/</guid>
+      <description>Discovery / credits: Malvuln - malvuln.com (c) 2021 Original source: https://malvuln.com/advisory/776e8bb41adf8bd95865c0b03637d8d7_B.txt Contact: malvuln13@gmail.com Media: twitter.com/malvuln
+Threat: Backdoor.Win32.NerTe.781 Vulnerability: Unauthenticated Remote Command Execution Description: Third-party attackers who can reach infected systems can connect to port 80 and run commands made available by the backdoor to retrieve information etc. Type: PE32 MD5: 776e8bb41adf8bd95865c0b03637d8d7 Vuln ID: MVID-2021-0265 Dropped files: nsrv78.exe Disclosure: 07/03/2021
+Exploit/PoC: Example commands:
+GETCLB (Get Clipboard data) GETSND (Get sounds) GETIN2 (Get Installed Software) GETIN3 GETIN4 GETIN6</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,6 +6,61 @@
     <description>Recent content in Evasion on Security Monster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2021, Security Monster; all rights reserved.</copyright><atom:link href="https://security.monster/papers/windows/infection/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021, Security Monster; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://security.monster/papers/windows/infection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another detailed guide to PE infection</title>
+      <link>https://security.monster/papers/windows/infection/another-detailed-guide-to-pe-infection/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/infection/another-detailed-guide-to-pe-infection/</guid>
+      <description> https://security.monster/data/AnotherdetailedguidetoPEinfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/infection/add-a-new-pe-section-code-inside-of-it/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/infection/add-a-new-pe-section-code-inside-of-it/</guid>
+      <description> https://security.monster/data/AddanewPEsectionCodeinsideofit.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/infection/detailed-guide-to-pe-infection/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/infection/detailed-guide-to-pe-infection/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Thread Local Storage: The hidden entry point (64bit version, AMD)</title>
+      <link>https://security.monster/papers/windows/infection/thread-local-storage-the-hidden-entry-point-64bit-version-amd/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/infection/thread-local-storage-the-hidden-entry-point-64bit-version-amd/</guid>
+      <description> https://security.monster/data/29A-8.001.txt  </description>
+    </item>
+    
+    <item>
+      <title>Thread Local Storage: The hidden entry point (64bit version, Intel)</title>
+      <link>https://security.monster/papers/windows/infection/thread-local-storage-the-hidden-entry-point-64bit-version-intel/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/infection/thread-local-storage-the-hidden-entry-point-64bit-version-intel/</guid>
+      <description> https://security.monster/data/29A-8.002.txt  </description>
+    </item>
+    
+    <item>
+      <title>Windows Boot CD Infection</title>
+      <link>https://security.monster/papers/windows/infection/windows-boot-cd-infection/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/infection/windows-boot-cd-infection/</guid>
+      <description> https://security.monster/data/29A-8.016.txt  </description>
+    </item>
+    
   </channel>
 </rss>

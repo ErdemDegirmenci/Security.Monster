@@ -6,6 +6,88 @@
     <description>Recent content in Evasion on Security Monster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2021, Security Monster; all rights reserved.</copyright><atom:link href="https://security.monster/papers/windows/system-components-and-abuse/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021, Security Monster; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://security.monster/papers/windows/system-components-and-abuse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/abusing-mailslots-and-portknocking-for-connectionless-shells/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/abusing-mailslots-and-portknocking-for-connectionless-shells/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/abusing-the-windows-power-management-api/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/abusing-the-windows-power-management-api/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/anti-analysis-techniques-used-in-excel-4.0-macros/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/anti-analysis-techniques-used-in-excel-4.0-macros/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/cmd-hijack-a-command-argument-confusion-with-path-traversal-in-cmd.exe/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/cmd-hijack-a-command-argument-confusion-with-path-traversal-in-cmd.exe/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/from-a-c-project-through-assembly-to-shellcode/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/from-a-c-project-through-assembly-to-shellcode/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/hide-desktop-icons/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/hide-desktop-icons/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/stealthy-process-communication-between-threads-on-windows-10/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/stealthy-process-communication-between-threads-on-windows-10/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>Detailed Guide To Pe Infection</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/weaponizing-windows-virtualization/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/weaponizing-windows-virtualization/</guid>
+      <description> https://security.monster/data/DetailedGuideToPeInfection.txt  </description>
+    </item>
+    
+    <item>
+      <title>The worst of the two worlds: Excel meets Outlook</title>
+      <link>https://security.monster/papers/windows/system-components-and-abuse/the-worst-of-the-two-worlds-excel-meets-outlook/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://security.monster/papers/windows/system-components-and-abuse/the-worst-of-the-two-worlds-excel-meets-outlook/</guid>
+      <description> https://security.monster/data/TheworstofthetwoworldsExcelmeetsOutlook.pdf  </description>
+    </item>
+    
   </channel>
 </rss>
